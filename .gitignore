@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv
+env/
+venv/
+ENV/
+
+# Project specific
+config.json
+.env
+
+# Build and Distribution
+dist/
+build/
+*.spec
+
+# OS
+.DS_Store
+Thumbs.db
